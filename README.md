@@ -1,2 +1,4 @@
 # Multi-modal-Piano-Genre-Dataset
-Multi-modal Piano Genre Dataset
+Multi-modal Piano Genre Dataset contains 985 piano pieces from four genres (i.e.,Baroque---243 pieces; Classical---236; Romantic---258; Modern---248) for piano music education, including pieces by different well-known composers such as Johann Sebastian Bach and Ludwig van Beethoven. For each audio sample, the audio file (MID format), and its corresponding Kern file (humdrum format) from the score file containing hierarchical description information about key signature, dynamics, tempos, notes, etc.  are collected. The piano audio and Humdrum data are not well aligned in this dataset, since the Kern file is a text file encoding the high-level abstract semantics of piano scores, rather than a conventional score composed of sequential note symbols. When the corresponding humdrum file is not available, its MusicXML}file can be found in Musescore website.
+
+More information can be referred to iemyjiu@zzu.edu.cn.
